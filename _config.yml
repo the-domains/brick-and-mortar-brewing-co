@@ -1,0 +1,28 @@
+name: Brick and Mortar Brewing Co
+favicon: null
+layout_spectrum: 0.06586516066454351
+typography_spectrum: 0.5153134793508798
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.17869500466622412
+  lightness: 0.17099386197514832
+  saturation: 0.549926669569686
+  rhythmicContrast: 0.580495428526774
+purpose: []
