@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brick and Mortar Brewing Co]]></title>
+        <description><![CDATA[Brick and Mortar Brewing Co]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 20:05:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/256e6d31-a382-4efc-812f-0e1763fc194c.jpg">]]></description>
+            <link>undefinedc02ee8c2-708f-44f4-8b4e-eb1ea042e414/index.html</link>
+            <guid isPermaLink="false">c02ee8c2-708f-44f4-8b4e-eb1ea042e414</guid>
+            <pubDate>Fri, 04 Mar 2016 20:04:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
